@@ -1,0 +1,8 @@
+2025-04-10 17:31:09,798 - INFO - Scraping page 1: https://loungereview.com/page/1/?geodir_search=1&stype=gd_place&s&sgeo_lat&sgeo_lon&snear&sairline%5B0%5D&salliance%5B0%5D&soperator%5B0%5D&smemberships%5B0%5D=
+2025-04-10 17:31:40,308 - ERROR - Error scraping page 1: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://loungereview.com/page/1/?geodir_search=1&stype=gd_place&s&sgeo_lat&sgeo_lon&snear&sairline%5B0%5D&salliance%5B0%5D&soperator%5B0%5D&smemberships%5B0%5D=", waiting until "networkidle"
+
+2025-04-10 17:31:40,444 - INFO - No more lounges found after page 0
+2025-04-10 17:31:40,444 - INFO - Saved 0 lounges to output/lounges_all.json
+2025-04-10 17:31:40,444 - INFO - Scraped a total of 0 lounges
